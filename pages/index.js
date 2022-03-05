@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Ir a <a href="/about">About</a>
+          Ir a <a href="/about">Homejs</a>
         </h1>
       </main>
     </div>

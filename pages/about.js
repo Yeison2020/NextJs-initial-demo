@@ -13,7 +13,7 @@ export default function About() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Ir a <a href="https://personal-yeison.herokuapp.com/">About</a>
+          Ir a <a href="https://personal-yeison.herokuapp.com/">About Js</a>
         </h1>
       </main>
     </div>
